@@ -1,4 +1,4 @@
-# Projet 4 : Dashboard sur les Énergies Renouvelables (Power BI)
+# Dashboard sur les Énergies Renouvelables "Enedis" (Power BI)
 
 ## Contexte Métier
 Création d'un rapport de pilotage stratégique pour Enedis sur l'évolution de la production d'énergie renouvelable en France. Ce projet met en lumière ma capacité à transformer des données brutes multi-sources en un outil d'aide à la décision interactif et pertinent.
@@ -20,4 +20,5 @@ Création d'un rapport de pilotage stratégique pour Enedis sur l'évolution de 
 *Par Hamza Yousfi, Data Analyst (2026)*
 
 ## Aperçu du Résultat
-[AJOUTER IMAGE ICI : Capture d'écran du résultat du projet]
+<img width="1092" height="875" alt="image" src="https://github.com/user-attachments/assets/923f1848-7a41-47de-a336-5840c7e79422" />
+
